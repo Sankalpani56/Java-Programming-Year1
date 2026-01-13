@@ -4,7 +4,7 @@ This repository contains my solutions for the **Java Programming** module lab sh
 
 ## 🚀 Progress Tracking
 - [x] **Week 01**: Java Basics, Syntax, and Input/Output
-- [ ] **Week 02**: Control Structures (If-Else, Switch)
+- [x] **Week 02**: Control Structures (If-Else, Switch)
 - [ ] **Week 03**: Loops & Iteration (Upcoming)
 - [ ] **Week 04**: Arrays & Multi-dimensional Arrays (Upcoming)
 
