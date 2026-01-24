@@ -27,10 +27,10 @@ Follow these steps in your command prompt:
    `cd "Lab 01"`
 
 2. **Compile the source file:**
-   [cite_start]`javac Lab1Q1.java` [cite: 197]
+   [cite_start]`javac Lab1Q1.java` 
 
 3. **Run the compiled program:**
-   [cite_start]`java Lab1Q1` [cite: 231]
+   [cite_start]`java Lab1Q1` 
 
 ---
 *G.D.E Sankalpani - IT25103665*
